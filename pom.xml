@@ -16,6 +16,9 @@
         <module>purplebamboo_order</module>
         <module>purplebamboo_product</module>
         <module>purplebamboo_ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>purplebamboo-common</module>
     </modules>
 
 </project>
